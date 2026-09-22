@@ -60,7 +60,7 @@ Fun fact: I debug faster with music on
 
 ### Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hade&theme=dark&hide_border=true&background=00000000&stroke=A7A459&ring=A7A459&fire=A7A459&currStreakLabel=A7A459" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hcentral07&theme=dark&hide_border=true&background=00000000&stroke=A7A459&ring=A7A459&fire=A7A459&currStreakLabel=A7A459" />
 
 </div>
 
