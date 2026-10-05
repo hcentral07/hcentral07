@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=800&height=80&lines=Hey+there%2C+I'm+Hade" width="60%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=BB86FC&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=80&lines=Hey+there%2C+it's+me%2C+Hade" width="60%" />
 </div>
 
 <br>
