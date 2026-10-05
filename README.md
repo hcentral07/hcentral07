@@ -34,20 +34,6 @@ When I'm not debugging distributed systems, I'm gaming, listening to music, or w
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcentral07&theme=dark&hide_border=true&background=00000000&stroke=A7A459&ring=A7A459&fire=A7A459&currStreakLabel=A7A459" width="60%" />
-</div>
-
-<br>
-
-### Featured Projects
-* **[project-name-1](https://github.com/hade/project-name-1)** - Short one-line description of what it does. `Node.js` `React` `TypeScript`
-* **[project-name-2](https://github.com/hade/project-name-2)** - Short one-line description of what it does. `Rust` `Go` `Docker`
-* **[project-name-3](https://github.com/hade/project-name-3)** - Short one-line description of what it does. `Python` `LLM` `ML`
-* **[project-name-4](https://github.com/hade/project-name-4)** - Short one-line description of what it does. `Lua` `C#` `Game`
-
-<br>
-
-<div align="center">
   <a href="https://github.com/hade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
