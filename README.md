@@ -20,7 +20,7 @@ Fun fact: I debug faster with music on
 </td>
 <td valign="top" width="50%" align="right">
 
-<img src="https://i.pinimg.com/originals/84/0a/fb/840afbf3fb761c03f6bf46b8a1f6d489.gif" width="100%" />
+<img src="https://i.pinimg.com/1200x/1d/d4/12/1dd412ac7b6918a2563852111e54bae4.jpg" width="100%" />
 
 </td>
 </tr>
